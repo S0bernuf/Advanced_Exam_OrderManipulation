@@ -1,3 +1,0 @@
-﻿Coke,Drink,2.00
-Beer,Drink,5.00
-Wine,Drink,6.00

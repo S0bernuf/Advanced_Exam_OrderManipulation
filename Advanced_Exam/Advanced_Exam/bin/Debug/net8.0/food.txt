@@ -1,3 +1,0 @@
-﻿Pizza,Food,12.50
-Burger,Food,9.00
-Wings,Food,8.50
